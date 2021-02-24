@@ -15,3 +15,5 @@ Step 2:Create a Folder "Face-Mask-Detection-master" and upload the downloaded Zi
 Step 3:Open the Note Book in google colab
 
 Step 4:Run the code cells
+
+[Click Here](https://nbviewer.jupyter.org/github/naikshubham14/FaceMask_Detection/blob/main/Face_mask_detection_final.ipynb) to take a quick peek and the rendered notebook if it doesnt render in github due to some issue
