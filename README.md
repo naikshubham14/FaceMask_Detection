@@ -1,4 +1,4 @@
-# FaceMask_Detection
+# Face Mask Detection
 Face mask detection using TensorFlow and Keras
 
 This is a program for detecting Face Mask with Deep Learning using MobinetV2, TensorFlow, Keras & OpenCV2
